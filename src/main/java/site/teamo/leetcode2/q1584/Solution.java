@@ -52,6 +52,12 @@ package site.teamo.leetcode2.q1584;
 
 public class Solution {
     public int minCostConnectPoints(int[][] points) {
+        int a = 90/8;
+        System.out.println(a);
         return 0;
+    }
+
+    public static void main(String[] args) {
+        new Solution().minCostConnectPoints(null);
     }
 }
